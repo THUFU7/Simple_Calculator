@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple_Calculator</string>
+    <string name="First_number">First Number</string>
+    <string name="Second_number">Second Number</string>
+    <string name="Answer">ANSWER</string>
+    <string name="Addition">+</string>
+    <string name="Subtraction">-</string>
+    <string name="Division">/</string>
+    <string name="Multiplication">*</string>
+</resources>
